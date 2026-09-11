@@ -35,7 +35,7 @@ These are distinct repositories at different stages. The portfolio is not yet a 
 
 ## For partners and contributors
 
-Start with the project closest to your use case. Its README explains the checked-in implementation, setup path, and remaining validation work. For technical discussion, use that project's Issues tab where enabled.
+Read the [contribution guide](CONTRIBUTING.md), then start with the project closest to your use case. Its README explains the checked-in implementation, setup path, and remaining validation work. For technical discussion, use that project's Issues tab where enabled.
 
 Useful collaboration areas include Deaf and hard-of-hearing user research, neurodivergent interface design, assistive-technology testing, edge deployment, and independent security evaluation.
 
