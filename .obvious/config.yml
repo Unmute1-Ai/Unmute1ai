@@ -1,0 +1,10 @@
+# .obvious/config.yml — repository policy for Unmute1-Ai/Unmute1ai
+# Default branch and merge settings auto-detected from GitHub repo settings on 2026-10-30.
+
+branches:
+  default: main
+
+merge:
+  # GitHub reports merge commit, squash, and rebase all allowed; using the GitHub default.
+  method: merge
+  requireHumanMerge: true
